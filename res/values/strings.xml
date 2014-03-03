@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">ART4Me</string>
+    <string name="menu_lastactivity">Resend Last Message</string>
+    <string name="title_activity_hiv">ART4Me</string>
+    <string name="send_button">Send</string>
+    <string name="enter_message">Tap here to type your message…</string>
+    <string name="sender">Message Sender</string>
+    <string name="menu_clearlog">Clear All Messages</string>
+    <string name="pill_taken">Pill Taken</string>
+    <string name="menu_clearpreferences">Clear Preferences</string>
+    <string name="app_malfunction">Application has malfunctioned</string>
+    <string name="menu_details">Details...</string>
+    <string name="user_consent">Do you agree to this study? This App sends automated messages to the Server to keep your profile up to date.</string>
+    <string name="greeting">Hello there...</string>
+
+</resources>

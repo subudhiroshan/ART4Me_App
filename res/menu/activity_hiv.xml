@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_lastactivity"
+        android:title="@string/menu_lastactivity"
+        android:showAsAction="never" />
+    <item android:id="@+id/menu_clearlog"
+        android:title="@string/menu_clearlog"
+        android:showAsAction="never" />
+    <item android:id="@+id/menu_clearpreferences" android:title="@string/menu_clearpreferences"></item>
+    <item android:id="@+id/menu_details" android:title="@string/menu_details"></item>
+</menu>
